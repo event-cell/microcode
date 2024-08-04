@@ -1,3 +1,5 @@
+  // Credit: David King for
+  // Original code and changes up until August 2024
   // 18 February 2020
   // dbVal1 & 2 to float int
   // Batt test added
